@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **ATS Resume Builder Website**
+- 🔭 I’m currently working on **Orbital Nexus**
 - 🌱 I’m learning **React, Node.js**
 - 💬 Ask me about **Web Development**
 - ⚡ Fun fact: I love building cool websites 😎
@@ -32,9 +32,10 @@
 ---
 
 ### 🚀 Projects
-- 🔹 ATS Resume Builder (In Progress)
-- 🔹 Portfolio Website
+- 🔹 Orbital Nexus (in progress)
+- 🔹  ATS Resume Builder
 - 🔹 JavaScript Mini Projects
+- 🔹 Portfolio Website
 
 ---
 
