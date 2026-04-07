@@ -48,7 +48,7 @@
 ---
 
 ### ✨ Cool Stuff
-<img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Frontend+Developer;Open+Source+Learner;Tech+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Web & ApplicationDeveloper;Open+Source+Learner;Tech+Enthusiast" />
 
 <img src="https://komarev.com/ghpvc/?username=sihmarsahil&color=blue" />
 
