@@ -6,6 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
+- 💼 Currently working as a Web & Application Developer at RTN Company
 - 🔭 I’m currently working on **Orbital Nexus**
 - 🌱 I’m learning **React, Node.js**
 - 💬 Ask me about **Web Development**
@@ -41,7 +42,7 @@
 
 ### 🌐 Connect with me
 <p>
-  <a href="https://linkedin.com/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/monu-sihmar/">LinkedIn</a> |
   <a href="https://instagram.com/">Instagram</a>
 </p>
 
