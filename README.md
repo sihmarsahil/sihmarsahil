@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monu</h1>
+<h1 align="center">Hi 👋, I'm Monu</h1> 
 <h3 align="center">Frontend Developer | Tech Enthusiast 🚀</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
